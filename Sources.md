@@ -92,7 +92,7 @@ Supplemental Journal Articles and Reports (Extra Reading)
 
 https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/iran/220-iran-nuclear-deal-five-revival
 
-https://www.belfercenter.org/sites/default/files/files/publication/The Iran Nuclear Archive_0.pdf
+https://www.belfercenter.org/sites/default/files/files/publication/The%20Iran%20Nuclear%20Archive_0.pdf
 
 https://www.worldnuclearreport.org/IMG/pdf/wnisr2020-v2_hr.pdf
 
